@@ -1,0 +1,3 @@
+This file is also added in the feature1 branch under feature folder of root project directory
+
+Adding a new line to make third commit in feature1 branch
